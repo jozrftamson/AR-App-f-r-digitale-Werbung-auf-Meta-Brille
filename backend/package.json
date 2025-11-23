@@ -1,0 +1,22 @@
+{
+  "name": "ar-ads-backend-sample",
+  "version": "1.0.0",
+  "description": "Minimal Express API for AR Ad platform demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"require('./server');console.log('server loaded')\""
+  },
+  "keywords": [
+    "ar",
+    "express",
+    "ads"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^11.0.3"
+  }
+}
