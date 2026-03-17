@@ -6,6 +6,7 @@
 ![Top language](https://img.shields.io/github/languages/top/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille)
 ![License](https://img.shields.io/github/license/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille?style=flat-square)
 ![Downloads](https://img.shields.io/github/downloads/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille/total?style=flat-square)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille?utm_source=badge)
 
 [![Discord](https://img.shields.io/discord/000000000000000000?label=Discord&logo=discord&style=flat-square)](https://discord.gg/your-invite-code)
 [![GitHub stars](https://img.shields.io/github/stars/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille?style=flat-square)](https://github.com/jozrftamson/AR-App-f-r-digitale-Werbung-auf-Meta-Brille/stargazers)
